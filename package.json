@@ -10,9 +10,9 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "framer-motion": "^12.4.3",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
     "react-sparkle": "^2.0.0"
   },
   "devDependencies": {
