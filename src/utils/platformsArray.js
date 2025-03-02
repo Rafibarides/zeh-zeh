@@ -12,7 +12,7 @@ export const platforms = [
   {
     icon: '/youtube.png',
     title: 'YouTube',
-    link: 'https://geo.music.apple.com/us/album/_/1798487751?i=1798487753&mt=1&app=music&ls=1&at=1000lHKX&ct=odesli_http&itscg=30200&itsct=odsl_m'
+    link: 'https://www.youtube.com/watch?v=Vv0CTPNmFy8&ab_channel=DovidPearlman'
   },
   {
     icon: '/24six.svg',
